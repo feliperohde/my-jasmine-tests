@@ -1,0 +1,27 @@
+{
+  "name": "my-jasmine-tests",
+  "version": "1.0.0",
+  "description": "testes unitarios com testem + jasmine",
+  "main": "Pasta.js",
+  "scripts": {
+    "start": "testem --port=8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feliperohde/my-jasmine-tests.git"
+  },
+  "keywords": [
+    "jasmine",
+    "testem"
+  ],
+  "author": "Felipe Rohde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feliperohde/my-jasmine-tests/issues"
+  },
+  "homepage": "https://github.com/feliperohde/my-jasmine-tests#readme",
+  "dependencies": {
+    "install": "^0.5.6",
+    "testem": "^1.5.0"
+  }
+}
